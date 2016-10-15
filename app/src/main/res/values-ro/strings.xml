@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GettingStartedNDK</string>
+    <string name="send_message">Trimite mesaj</string>
+    <string name="edit_message">Introdu text</string>
+    <string name="show_native">Arata mesaj C++</string>
+</resources>

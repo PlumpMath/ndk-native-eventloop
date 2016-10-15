@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GettingStartedNDK</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="show_native">Show C++ message</string>
+    <string name="send_message">Send message</string>
+</resources>
